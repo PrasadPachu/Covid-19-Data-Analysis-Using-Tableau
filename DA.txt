@@ -1,0 +1,11 @@
+1-What are the total number of Confirmed case in different Nation?
+2-What are the total number of  Recovered cases in different nation?
+3-What are the total number of Confirmed case in  India?
+4-What are the total number of Recovered cases in India?
+5-Can we forcast Trend Line for Covid 19?
+6-Can we Group Indian States and find Covid-19 Hits?
+7-Find the Highest deth rates in International lavel.
+8-Find the Least deth rates 
+9-Can we Find the variations in C-19 around the world?
+10-Can we Forecast the sheet for thr future and reference.
+
